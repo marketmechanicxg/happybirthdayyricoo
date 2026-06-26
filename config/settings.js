@@ -14,7 +14,7 @@
    1. PIN MASUK
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    PIN 4–6 angka yang harus diketik tamu untuk membuka website.  */
-const WEBSITE_PIN = "2126 ";              // ← GANTI PIN
+const WEBSITE_PIN = "2126";              // ← GANTI PIN
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    2. NAMA PENERIMA
